@@ -1,0 +1,555 @@
+Player,Nation,Pos,Squad,Born,Gls,xGp90
+Brenden Aaronson,us USA,MFFW,Leeds United,2000,1,0.14
+Che Adams,sct SCO,FW,Southampton,1996,5,0.28
+Tyler Adams,us USA,MF,Leeds United,1999,0,0
+Tosin Adarabioyo,eng ENG,DF,Fulham,1997,1,0.02
+Nayef Aguerd,ma MAR,DF,West Ham,1996,1,0.1
+Naouirou Ahamada,fr FRA,MFFW,Crystal Palace,2002,0,0.15
+Rayan Aït Nouri,dz ALG,DF,Wolves,2001,1,0.06
+Kristoffer Ajer,no NOR,DF,Brentford,1998,0,0
+Manuel Akanji,ch SUI,DF,Manchester City,1995,0,0.05
+Nathan Aké,nl NED,DF,Manchester City,1995,0,0.05
+Marc Albrighton,eng ENG,FWMF,Leicester City,1989,1,0.13
+Thiago Alcántara,es ESP,MF,Liverpool,1991,0,0.03
+Carlos Alcaraz,ar ARG,MFFW,Southampton,2002,3,0.16
+Trent Alexander-Arnold,eng ENG,DF,Liverpool,1998,1,0.07
+Alisson,br BRA,GK,Liverpool,1992,0,0
+Dele Alli,eng ENG,MF,Everton,1996,0,0
+Miguel Almirón,py PAR,FW,Newcastle Utd,1994,11,0.28
+Julián Álvarez,ar ARG,FWMF,Manchester City,2000,7,0.51
+Daniel Amartey,gh GHA,DF,Leicester City,1994,0,0.06
+Joachim Andersen,dk DEN,DF,Crystal Palace,1996,1,0.06
+Elliot Anderson,sct SCO,FWMF,Newcastle Utd,2002,0,0.35
+Jaidon Anthony,eng ENG,MFFW,Bournemouth,1999,3,0.18
+Michail Antonio,jm JAM,FW,West Ham,1990,4,0.29
+Antony,br BRA,FW,Manchester Utd,2000,4,0.32
+Cameron Archer,eng ENG,FWMF,Aston Villa,2001,0,0
+Alphonse Areola,fr FRA,GK,West Ham,1993,0,0
+Joe Aribo,ng NGA,MFFW,Southampton,1996,2,0.12
+Adam Armstrong,eng ENG,FW,Southampton,1997,1,0.12
+Stuart Armstrong,sct SCO,MFFW,Southampton,1992,1,0.13
+Kepa Arrizabalaga,es ESP,GK,Chelsea,1994,0,0
+Pierre-Emerick Aubameyang,ga GAB,FW,Chelsea,1989,1,0.26
+Ludwig Augustinsson,se SWE,DF,Aston Villa,1994,0,0.1
+Serge Aurier,ci CIV,DF,Nott'ham Forest,1992,1,0.04
+Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,1997,4,0.48
+Yasin Ayari,se SWE,MF,Brighton,2003,0,0.19
+André Ayew,gh GHA,FWMF,Nott'ham Forest,1989,0,0.34
+Jordan Ayew,gh GHA,FWMF,Crystal Palace,1991,3,0.11
+Luke Ayling,eng ENG,DF,Leeds United,1991,1,0.12
+César Azpilicueta,es ESP,DF,Chelsea,1989,0,0.03
+Benoît Badiashile,fr FRA,DF,Chelsea,2001,0,0.1
+Leon Bailey,jm JAM,FWMF,Aston Villa,1997,4,0.25
+Stefan Bajcetic,es ESP,MF,Liverpool,2004,1,0.13
+Patrick Bamford,eng ENG,FW,Leeds United,1993,3,0.5
+Shandon Baptiste,gd GRN,MF,Brentford,1998,0,0.06
+Harvey Barnes,eng ENG,FWMF,Leicester City,1997,10,0.3
+Gavin Bazunu,ie IRL,GK,Southampton,2002,0,0
+Mads Bech Sørensen,dk DEN,DFMF,Brentford,1999,0,0
+Jan Bednarek,pl POL,DF,Southampton,1996,0,0.03
+Jan Bednarek,pl POL,DF,Aston Villa,1996,0,0
+Donny van de Beek,nl NED,MF,Manchester Utd,1997,0,0.05
+Asmir Begović,ba BIH,GK,Everton,1987,0,0
+Armel Bella Kotchap,de GER,DF,Southampton,2001,0,0.05
+Saïd Benrahma,dz ALG,FWMF,West Ham,1995,5,0.33
+Rodrigo Bentancur,uy URU,MF,Tottenham,1997,5,0.13
+Victor Bernth Kristiansen,dk DEN,DF,Leicester City,2002,0,0.01
+Owen Bevan,wls WAL,DF,Bournemouth,2003,0,0
+Giulian Biancone,fr FRA,DF,Nott'ham Forest,2000,0,0
+Philip Billing,dk DEN,MFFW,Bournemouth,1996,7,0.14
+Yves Bissouma,ml MLI,MF,Tottenham,1996,0,0.02
+Willy Boly,ci CIV,DF,Nott'ham Forest,1991,0,0
+Sven Botman,nl NED,DF,Newcastle Utd,2000,0,0.05
+Jarrod Bowen,eng ENG,FWMF,West Ham,1996,5,0.25
+James Bree,eng ENG,DF,Southampton,1997,0,0
+Armando Broja,al ALB,FW,Chelsea,2001,1,0.26
+David Brooks,wls WAL,DFFW,Bournemouth,1997,0,0.11
+Lewis Brunt,eng ENG,DF,Leicester City,2000,0,0
+Bryan,es ESP,MFFW,Tottenham,2001,0,0.06
+Emi Buendía,ar ARG,MFFW,Aston Villa,1996,5,0.24
+Hugo Bueno,es ESP,DF,Wolves,2002,0,0.01
+Facundo Buonanotte,ar ARG,MFFW,Brighton,2004,1,0.53
+Dan Burn,eng ENG,DF,Newcastle Utd,1992,0,0.05
+Cafú,pt POR,MF,Nott'ham Forest,1993,0,0
+Moisés Caicedo,ec ECU,MF,Brighton,2001,1,0.05
+Tom Cairney,sct SCO,MF,Fulham,1991,0,0.11
+Duje Ćaleta-Car,hr CRO,DF,Southampton,1996,1,0.08
+Dominic Calvert-Lewin,eng ENG,FW,Everton,1997,1,0.34
+Chem Campbell,wls WAL,FWMF,Wolves,2002,0,0.12
+João Cancelo,pt POR,DF,Manchester City,1994,2,0.06
+Thomas Cannon,ie IRL,FW,Everton,2002,0,0.32
+Sergi Canós,es ESP,FWDF,Brentford,1997,0,0.09
+Diego Carlos,br BRA,DF,Aston Villa,1993,0,0.18
+Fabio Carvalho,pt POR,MFFW,Liverpool,2002,2,0.29
+Casemiro,br BRA,MF,Manchester Utd,1992,2,0.13
+Matty Cash,pl POL,DF,Aston Villa,1997,0,0.01
+Timothy Castagne,be BEL,DF,Leicester City,1995,2,0.07
+Jonny Castro,es ESP,DF,Wolves,1994,1,0.02
+Julio César Enciso,py PAR,FWMF,Brighton,2004,2,0.63
+Nathaniel Chalobah,eng ENG,MF,Fulham,1994,0,0.71
+Trevoh Chalobah,eng ENG,DF,Chelsea,1999,0,0.04
+Calum Chambers,eng ENG,DFMF,Aston Villa,1995,0,0.01
+Ben Chilwell,eng ENG,DFMF,Chelsea,1996,2,0.09
+Ryan Christie,sct SCO,MFFW,Bournemouth,1995,1,0.12
+Carney Chukwuemeka,eng ENG,MFFW,Chelsea,2003,0,0.11
+Bobby Clark,eng ENG,MF,Liverpool,2005,0,0
+Nathaniel Clyne,eng ENG,DF,Crystal Palace,1991,0,0
+Conor Coady,eng ENG,DF,Everton,1993,1,0.04
+Jack Colback,eng ENG,MF,Nott'ham Forest,1989,0,0
+Séamus Coleman,ie IRL,DF,Everton,1988,1,0.02
+Nathan Collins,ie IRL,DF,Wolves,2001,0,0.01
+Levi Colwill,eng ENG,DF,Brighton,2003,0,0.07
+Lewis Cook,eng ENG,MF,Bournemouth,1997,0,0.01
+Steve Cook,eng ENG,DF,Nott'ham Forest,1991,0,0.01
+Liam Cooper,sct SCO,DF,Leeds United,1991,1,0.07
+Maxwel Cornet,ci CIV,FW,West Ham,1996,0,0.62
+Diego Costa,es ESP,FW,Wolves,1988,1,0.25
+Vladimír Coufal,cz CZE,DF,West Ham,1992,0,0.01
+Philippe Coutinho,br BRA,MFFW,Aston Villa,1992,1,0.16
+Conor Coventry,ie IRL,MFFW,West Ham,2000,0,0
+Aaron Cresswell,eng ENG,DF,West Ham,1989,0,0.02
+Marc Cucurella,es ESP,DF,Chelsea,1998,0,0.02
+Matheus Cunha,br BRA,FW,Wolves,1999,2,0.19
+Patson Daka,zm ZAM,FW,Leicester City,1998,4,0.29
+Diogo Dalot,pt POR,DF,Manchester Utd,1999,1,0.12
+Mikkel Damsgaard,dk DEN,MFFW,Brentford,2000,0,0.08
+Danilo,br BRA,MF,Nott'ham Forest,2001,1,0.06
+Arnaut Danjuma,nl NED,FWMF,Tottenham,1997,1,0.66
+Josh Dasilva,eng ENG,MF,Brentford,1998,3,0.1
+Ben Davies,wls WAL,DF,Tottenham,1993,2,0.05
+Tom Davies,eng ENG,MF,Everton,1998,0,0.19
+Craig Dawson,eng ENG,DF,West Ham,1990,0,0.06
+Craig Dawson,eng ENG,DF,Wolves,1990,1,0.07
+Kevin De Bruyne,be BEL,MF,Manchester City,1991,7,0.22
+Siriki Dembélé,ci CIV,FWMF,Bournemouth,1996,0,0.15
+Leander Dendoncker,be BEL,MF,Aston Villa,1995,0,0.01
+Leander Dendoncker,be BEL,MF,Wolves,1995,0,0.27
+Emmanuel Dennis,ng NGA,FWMF,Nott'ham Forest,1997,2,0.23
+Halil Dervişoğlu,tr TUR,MF,Brentford,1999,0,0.31
+Kiernan Dewsbury-Hall,eng ENG,MF,Leicester City,1998,2,0.09
+Ibrahima Diallo,fr FRA,MF,Southampton,1999,0,0.02
+Rúben Dias,pt POR,DF,Manchester City,1997,0,0.07
+Luis Díaz,co COL,FW,Liverpool,1997,3,0.25
+Eric Dier,eng ENG,DF,Tottenham,1994,2,0.04
+Lucas Digne,fr FRA,DF,Aston Villa,1993,1,0.02
+Issa Diop,fr FRA,DF,Fulham,1997,1,0.02
+Moussa Djenepo,ml MLI,DFFW,Southampton,1998,0,0.02
+Ben Doak,sct SCO,FW,Liverpool,2005,0,0
+Matt Doherty,ie IRL,DFMF,Tottenham,1992,1,0.1
+Gabriel Dos Santos,br BRA,DF,Arsenal,1997,3,0.14
+Abdoulaye Doucouré,ml MLI,MF,Everton,1993,2,0.14
+Cheick Doucouré,ml MLI,MF,Crystal Palace,2000,0,0.04
+Flynn Downes,eng ENG,MF,West Ham,1999,0,0.08
+Cody Drameh,eng ENG,DF,Leeds United,2001,0,0
+Martin Dúbravka,sk SVK,GK,Newcastle Utd,1989,0,0
+Shane Duffy,ie IRL,FWDF,Fulham,1992,0,0
+Lewis Dunk,eng ENG,DF,Brighton,1991,1,0.05
+Jhon Durán,co COL,FW,Aston Villa,2003,0,0.59
+Malcolm Ebiowei,eng ENG,MFFW,Crystal Palace,2003,0,0
+Ederson,br BRA,GK,Manchester City,1993,0,0
+Odsonne Édouard,fr FRA,FW,Crystal Palace,1998,4,0.21
+Samuel Edozie,eng ENG,FWMF,Southampton,2003,0,0.14
+Anthony Elanga,se SWE,FW,Manchester Utd,2002,0,0.15
+Harvey Elliott,eng ENG,MFFW,Liverpool,2003,1,0.11
+Mohamed Elneny,eg EGY,MF,Arsenal,1992,0,0
+Mohamed Elyounoussi,no NOR,MFFW,Southampton,1994,0,0.12
+Emerson,br BRA,DF,Tottenham,1999,2,0.1
+Christian Eriksen,dk DEN,MF,Manchester Utd,1992,1,0.2
+Pervis Estupiñán,ec ECU,DF,Brighton,1998,0,0.04
+Jonny Evans,nir NIR,DF,Leicester City,1988,0,0.02
+Eberechi Eze,eng ENG,MFFW,Crystal Palace,1998,7,0.2
+Łukasz Fabiański,pl POL,GK,West Ham,1985,0,0
+Fabinho,br BRA,MF,Liverpool,1993,0,0.03
+Wout Faes,be BEL,DF,Leicester City,1998,0,0.03
+Felipe,br BRA,DF,Nott'ham Forest,1989,0,0.06
+João Félix,pt POR,FWMF,Chelsea,1999,2,0.4
+Evan Ferguson,ie IRL,FW,Brighton,2004,4,0.52
+Bruno Fernandes,pt POR,MFFW,Manchester Utd,1994,5,0.2
+Enzo Fernández,ar ARG,MF,Chelsea,2001,0,0.06
+Roberto Firmino,br BRA,FWMF,Liverpool,1991,9,0.38
+Junior Firpo,es ESP,DF,Leeds United,1996,1,0.01
+Phil Foden,eng ENG,FW,Manchester City,2000,9,0.31
+Datro Fofana,ci CIV,FW,Chelsea,2002,0,0.35
+Wesley Fofana,fr FRA,DF,Leicester City,2000,0,0.06
+Wesley Fofana,fr FRA,DF,Chelsea,2000,1,0.07
+Pablo Fornals,es ESP,FWMF,West Ham,1996,2,0.14
+Adam Forshaw,eng ENG,MF,Leeds United,1991,0,0
+Fraser Forster,eng ENG,GK,Tottenham,1988,0,0
+Tyrese Francois,au AUS,FW,Fulham,2000,0,0
+Ryan Fraser,sct SCO,FW,Newcastle Utd,1994,0,0.09
+Fred,br BRA,MF,Manchester Utd,1993,2,0.16
+Ryan Fredericks,eng ENG,DF,Bournemouth,1992,0,0
+Remo Freuler,ch SUI,MF,Nott'ham Forest,1992,0,0.02
+Cody Gakpo,nl NED,FW,Liverpool,1999,6,0.35
+Conor Gallagher,eng ENG,MFFW,Chelsea,2000,2,0.11
+Idrissa Gana Gueye,sn SEN,MF,Everton,1989,0,0.01
+Alejandro Garnacho,es ESP,FWMF,Manchester Utd,2004,2,0.32
+James Garner,eng ENG,MF,Everton,2001,0,0.05
+David de Gea,es ESP,GK,Manchester Utd,1990,0,0
+Joe Gelhardt,eng ENG,FW,Leeds United,2002,0,0.36
+Saman Ghoddos,ir IRN,MFDF,Brentford,1993,0,0.04
+Morgan Gibbs-White,eng ENG,FWMF,Wolves,2000,0,0.36
+Morgan Gibbs-White,eng ENG,MFFW,Nott'ham Forest,2000,4,0.17
+Billy Gilmour,sct SCO,MF,Brighton,2001,0,0.12
+Degnand Gnonto,it ITA,FWMF,Leeds United,2003,2,0.12
+Ben Godfrey,eng ENG,DF,Everton,1998,0,0.16
+João Gomes,br BRA,MFFW,Wolves,2001,1,0.05
+Toti Gomes,pt POR,DF,Wolves,1999,0,0.02
+Joe Gomez,eng ENG,DF,Liverpool,1997,0,0.01
+Sergio Gómez,es ESP,DFMF,Manchester City,2000,0,0.13
+Anthony Gordon,eng ENG,FWMF,Newcastle Utd,2001,0,0.17
+Anthony Gordon,eng ENG,FW,Everton,2001,3,0.27
+Demarai Gray,eng ENG,FWMF,Everton,1996,4,0.21
+Jack Grealish,eng ENG,FW,Manchester City,1995,5,0.2
+Sam Greenwood,eng ENG,MFFW,Leeds United,2002,1,0.17
+Pascal Groß,de GER,MFDF,Brighton,1991,6,0.15
+Vicente Guaita,es ESP,GK,Crystal Palace,1987,0,0
+Gonçalo Guedes,pt POR,FWMF,Wolves,1996,1,0.15
+Marc Guéhi,eng ENG,DF,Crystal Palace,2000,1,0.03
+Bruno Guimarães,br BRA,MF,Newcastle Utd,1997,3,0.07
+İlkay Gündoğan,de GER,MF,Manchester City,1990,4,0.26
+Darko Gyabi,eng ENG,FW,Leeds United,2004,0,0.72
+Erling Haaland,no NOR,FW,Manchester City,2000,33,0.93
+Lewis Hall,eng ENG,DFMF,Chelsea,2004,0,0.14
+Luke Harris,wls WAL,MFFW,Fulham,2005,0,0
+Jack Harrison,eng ENG,FWMF,Leeds United,1996,4,0.17
+Kai Havertz,de GER,FWMF,Chelsea,1999,7,0.42
+Jan Paul van Hecke,nl NED,DF,Brighton,2000,0,0.61
+Hwang Hee-chan,kr KOR,FWMF,Wolves,1996,2,0.17
+Dean Henderson,eng ENG,GK,Nott'ham Forest,1997,0,0
+Jordan Henderson,eng ENG,MF,Liverpool,1990,0,0.06
+Wayne Hennessey,wls WAL,GK,Nott'ham Forest,1987,0,0
+Rico Henry,eng ENG,DF,Brentford,1997,0,0.05
+Son Heung-min,kr KOR,MFFW,Tottenham,1992,8,0.28
+Aaron Hickey,sct SCO,DF,Brentford,2002,0,0.02
+Joseph Hodge,ie IRL,MF,Wolves,2002,0,0.06
+Rob Holding,eng ENG,DF,Arsenal,1995,1,0.05
+Mason Holgate,eng ENG,DF,Everton,1996,0,0.06
+Will Hughes,eng ENG,MF,Crystal Palace,1995,0,0.03
+Omari Hutchinson,eng ENG,FW,Chelsea,2003,0,0
+Pierre Højbjerg,dk DEN,MF,Tottenham,1995,4,0.05
+Kelechi Iheanacho,ng NGA,FWMF,Leicester City,1996,5,0.62
+Danny Ings,eng ENG,FW,West Ham,1992,2,0.37
+Danny Ings,eng ENG,FW,Aston Villa,1992,6,0.59
+Alexander Isak,se SWE,FW,Newcastle Utd,1999,10,0.66
+Daniel Iversen,dk DEN,GK,Leicester City,1997,0,0
+Alex Iwobi,ng NGA,MFFW,Everton,1996,1,0.06
+Daniel James,wls WAL,FW,Leeds United,1997,0,0.12
+Daniel James,wls WAL,FW,Fulham,1997,2,0.26
+Reece James,eng ENG,DFMF,Chelsea,1999,1,0.07
+Vitaly Janelt,de GER,MFDF,Brentford,1998,3,0.11
+Pontus Jansson,se SWE,DF,Brentford,1991,1,0.04
+Mathias Jensen,dk DEN,MF,Brentford,1996,5,0.07
+Gabriel Jesus,br BRA,FW,Arsenal,1997,9,0.71
+Raúl Jiménez,mx MEX,FW,Wolves,1991,0,0.31
+Joelinton,br BRA,MFFW,Newcastle Utd,1996,5,0.26
+Ben Johnson,eng ENG,DF,West Ham,2000,0,0
+Brennan Johnson,wls WAL,FWMF,Nott'ham Forest,2001,8,0.29
+Sam Johnstone,eng ENG,GK,Crystal Palace,1993,0,0
+Curtis Jones,eng ENG,MF,Liverpool,2001,0,0.05
+Jorginho,it ITA,MF,Arsenal,1991,0,0.02
+Jorginho,it ITA,MF,Chelsea,1991,2,0.12
+Mateo Joseph,eng ENG,FWMF,Leeds United,2003,0,0.4
+Diogo Jota,pt POR,FW,Liverpool,1996,4,0.51
+Hamed Junior Traorè,ci CIV,FWMF,Bournemouth,2000,0,0.19
+James Justin,eng ENG,DF,Leicester City,1998,0,0.02
+Mathias Jørgensen,dk DEN,DF,Brentford,1990,0,0.08
+Sasa Kalajdzic,at AUT,FW,Wolves,1997,0,0.53
+Boubacar Kamara,fr FRA,MF,Aston Villa,1999,0,0.01
+Harry Kane,eng ENG,FW,Tottenham,1993,24,0.58
+N'Golo Kanté,fr FRA,MF,Chelsea,1991,0,0.07
+Michael Keane,eng ENG,DF,Everton,1993,1,0.11
+Neeskens Kebano,cd COD,FW,Fulham,1992,0,0.06
+Thilo Kehrer,de GER,DF,West Ham,1996,0,0.02
+Naby Keïta,gn GUI,MF,Liverpool,1995,0,0.2
+Lloyd Kelly,eng ENG,DF,Bournemouth,1998,0,0.01
+Max Kilman,eng ENG,DF,Wolves,1997,0,0.04
+Jakub Kiwior,pl POL,DF,Arsenal,2000,0,0
+Mateusz Klich,pl POL,MFFW,Leeds United,1990,0,0.05
+Robin Koch,de GER,DF,Leeds United,1996,0,0.03
+Ibrahima Konaté,fr FRA,DF,Liverpool,1999,0,0.09
+Ezri Konsa,eng ENG,DF,Aston Villa,1997,0,0.03
+Kalidou Koulibaly,sn SEN,DF,Chelsea,1991,2,0.05
+Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,1989,1,0.04
+Mateo Kovačić,hr CRO,MF,Chelsea,1994,1,0.1
+Emil Krafth,se SWE,DF,Newcastle Utd,1994,0,0
+Dejan Kulusevski,se SWE,MFFW,Tottenham,2000,2,0.1
+Layvin Kurzawa,fr FRA,DF,Fulham,1992,0,0
+Adam Lallana,eng ENG,MFFW,Brighton,1988,2,0.11
+Tariq Lamptey,gh GHA,DF,Brighton,2000,0,0.04
+Manuel Lanzini,ar ARG,MFFW,West Ham,1993,0,0.03
+Aymeric Laporte,es ESP,DF,Manchester City,1994,0,0.05
+Juan Larios,es ESP,DF,Southampton,2004,0,0
+Jamaal Lascelles,eng ENG,DF,Newcastle Utd,1993,0,0.04
+Roméo Lavia,be BEL,MF,Southampton,2004,1,0.02
+Dexter Lembikisa,jm JAM,DF,Wolves,2003,0,0
+Mario Lemina,ga GAB,MF,Wolves,1993,0,0.03
+Clément Lenglet,fr FRA,DF,Tottenham,1995,0,0.05
+Bernd Leno,de GER,GK,Fulham,1992,0,0
+Jefferson Lerma,co COL,MF,Bournemouth,1994,3,0.07
+Jamal Lewis,nir NIR,DF,Newcastle Utd,1998,0,0
+Rico Lewis,eng ENG,DFMF,Manchester City,2004,0,0.02
+Keane Lewis-Potter,eng ENG,FWMF,Brentford,2001,0,0.14
+Victor Lindelöf,se SWE,DF,Manchester Utd,1994,0,0.01
+Jesse Lingard,eng ENG,FWMF,Nott'ham Forest,1992,0,0.1
+Diego Llorente,es ESP,DF,Leeds United,1993,0,0.1
+Hugo Lloris,fr FRA,GK,Tottenham,1986,0,0
+Renan Lodi,br BRA,DF,Nott'ham Forest,1998,0,0.04
+Ruben Loftus-Cheek,eng ENG,MFDF,Chelsea,1996,0,0.06
+Sean Longstaff,eng ENG,MF,Newcastle Utd,1997,1,0.13
+Jamal Lowe,jm JAM,MFFW,Bournemouth,1994,0,0
+Douglas Luiz,br BRA,MF,Aston Villa,1998,4,0.09
+Saša Lukić,rs SRB,MF,Fulham,1996,0,0.04
+Lyanco,br BRA,DF,Southampton,1997,0,0.03
+Alexis Mac Allister,ar ARG,MF,Brighton,1998,8,0.38
+James Maddison,eng ENG,MFFW,Leicester City,1996,9,0.24
+Noni Madueke,eng ENG,FWDF,Chelsea,2002,0,0.12
+Harry Maguire,eng ENG,DF,Manchester Utd,1993,0,0.04
+Riyad Mahrez,dz ALG,FWMF,Manchester City,1991,5,0.35
+Kobbie Mainoo,eng ENG,MF,Manchester Utd,2005,0,0
+Ainsley Maitland-Niles,eng ENG,DFMF,Southampton,1997,0,0
+Tyrell Malacia,nl NED,DF,Manchester Utd,1999,0,0.02
+Orel Mangala,be BEL,MF,Nott'ham Forest,1998,1,0.05
+Javier Manquillo,es ESP,DF,Newcastle Utd,1994,0,0
+Sekou Mara,fr FRA,FWMF,Southampton,2002,1,0.18
+Solly March,eng ENG,FWDF,Brighton,1994,7,0.27
+Emiliano Marcondes,dk DEN,MF,Bournemouth,1995,0,0
+Marquinhos,br BRA,MF,Arsenal,2003,0,0
+Anthony Martial,fr FRA,FW,Manchester Utd,1995,4,0.62
+Martinelli,br BRA,FW,Arsenal,2001,15,0.3
+Emiliano Martínez,ar ARG,GK,Aston Villa,1992,0,0
+Lisandro Martínez,ar ARG,DF,Manchester Utd,1998,1,0.02
+Pape Matar Sarr,sn SEN,MF,Tottenham,2002,0,0.03
+Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,1997,2,0.4
+Joël Matip,cm CMR,DF,Liverpool,1991,1,0.06
+Neal Maupay,fr FRA,FW,Everton,1996,1,0.37
+Kevin Mbabu,ch SUI,DFFW,Fulham,1995,0,0
+Bryan Mbeumo,cm CMR,FW,Brentford,1999,6,0.28
+James McArthur,sct SCO,MF,Crystal Palace,1987,0,0
+John McGinn,sct SCO,MFFW,Aston Villa,1994,1,0.09
+Scott McKenna,sct SCO,DF,Nott'ham Forest,1996,0,0
+Weston McKennie,us USA,MF,Leeds United,1998,0,0.04
+Dwight McNeil,eng ENG,FWMF,Everton,1999,4,0.07
+Scott McTominay,sct SCO,MF,Manchester Utd,1996,1,0.1
+Ben Mee,eng ENG,DF,Brentford,1989,3,0.07
+Edouard Mendy,sn SEN,GK,Chelsea,1992,0,0
+Nampalys Mendy,sn SEN,MF,Leicester City,1992,1,0.02
+Chris Mepham,wls WAL,DF,Bournemouth,1997,0,0.03
+Illan Meslier,fr FRA,GK,Leeds United,2000,0,0
+Alexander Mighten,eng ENG,FW,Nott'ham Forest,2002,0,0
+Luka Milivojević,rs SRB,MF,Crystal Palace,1991,0,0.06
+James Milner,eng ENG,MFDF,Liverpool,1986,0,0.04
+Yerry Mina,co COL,DF,Everton,1994,1,0.09
+Tyrone Mings,eng ENG,DF,Aston Villa,1993,1,0.02
+Tyrick Mitchell,eng ENG,DF,Crystal Palace,1999,0,0.02
+Kaoru Mitoma,jp JPN,FW,Brighton,1997,7,0.25
+Aleksandar Mitrović,rs SRB,FW,Fulham,1994,11,0.61
+Kieffer Moore,wls WAL,FW,Bournemouth,1992,4,0.29
+Andrew Moran,ie IRL,FW,Brighton,2003,0,0
+Álex Moreno,es ESP,DF,Aston Villa,1993,0,0.04
+Mason Mount,eng ENG,MFFW,Chelsea,1999,3,0.11
+Lucas Moura,br BRA,MFDF,Tottenham,1992,0,0.06
+João Moutinho,pt POR,MF,Wolves,1986,0,0.07
+Divin Mubama,eng ENG,FW,West Ham,2004,0,0
+Mykhailo Mudryk,ua UKR,FWMF,Chelsea,2001,0,0.22
+Jacob Murphy,eng ENG,FW,Newcastle Utd,1995,3,0.16
+Enock Mwepu,zm ZAM,FWMF,Brighton,1998,0,0.09
+Vitaliy Mykolenko,ua UKR,DFMF,Everton,1999,0,0.02
+Keylor Navas,cr CRC,GK,Nott'ham Forest,1986,0,0
+Wilfred Ndidi,ng NGA,MFDF,Leicester City,1996,0,0.01
+Reiss Nelson,eng ENG,FW,Arsenal,1999,3,0.58
+Neto,br BRA,GK,Bournemouth,1989,0,0
+Pedro Neto,pt POR,FWMF,Wolves,2000,0,0.12
+Rúben Neves,pt POR,MF,Wolves,1997,6,0.18
+Moussa Niakhate,sn SEN,DF,Nott'ham Forest,1996,0,0.04
+Rasmus Nissen,dk DEN,DF,Leeds United,1997,2,0.04
+Eddie Nketiah,eng ENG,FW,Arsenal,1999,4,0.65
+Matheus Nunes,pt POR,MF,Wolves,1998,1,0.09
+Darwin Núñez,uy URU,FW,Liverpool,1999,9,0.67
+Ethan Nwaneri,eng ENG,FW,Arsenal,2007,0,0
+Christian Nørgaard,dk DEN,MF,Brentford,1994,1,0.08
+Lewis O'Brien,eng ENG,MF,Nott'ham Forest,1998,1,0.05
+Odeluga Offiah,eng ENG,DF,Brighton,2002,0,0
+Angelo Ogbonna,it ITA,DF,West Ham,1988,0,0.03
+Michael Olise,fr FRA,FWMF,Crystal Palace,2001,2,0.1
+Robin Olsen,se SWE,GK,Aston Villa,1990,0,0
+Amadou Onana,be BEL,MF,Everton,2001,1,0.12
+Josh Onomah,eng ENG,MF,Fulham,1997,0,0
+Paul Onuachu,ng NGA,FW,Southampton,1994,0,0.11
+Frank Onyeka,ng NGA,MF,Brentford,1998,0,0.12
+Mislav Oršić,hr CRO,MF,Southampton,1992,0,0
+Dango Ouattara,bf BFA,MFFW,Bournemouth,2002,1,0.3
+Alex Oxlade-Chamberlain,eng ENG,FWMF,Liverpool,1993,1,0.35
+David Ozoh,,FW,Crystal Palace,2005,0,0
+João Palhinha,pt POR,MF,Fulham,1995,3,0.08
+Cole Palmer,eng ENG,FWMF,Manchester City,2002,0,0.04
+Emerson Palmieri,it ITA,DF,West Ham,1994,1,0.06
+Lucas Paquetá,br BRA,MF,West Ham,1997,4,0.2
+Thomas Partey,gh GHA,MF,Arsenal,1993,3,0.09
+Nathan Patterson,sct SCO,DFMF,Everton,2001,0,0.04
+Ben Pearson,eng ENG,MF,Bournemouth,1995,0,0.01
+Facundo Pellistri,uy URU,FWMF,Manchester Utd,2001,0,0
+Andreas Pereira,br BRA,MF,Fulham,1996,4,0.25
+Ricardo Pereira,pt POR,DFMF,Leicester City,1993,1,0.03
+Ayoze Pérez,es ESP,MFFW,Leicester City,1993,0,0.27
+Ivan Perišić,hr CRO,DFMF,Tottenham,1989,1,0.12
+Romain Perraud,fr FRA,DF,Southampton,1997,2,0.06
+Máximo Perrone,ar ARG,MF,Manchester City,2003,0,0
+Kalvin Phillips,eng ENG,MF,Manchester City,1995,0,0.09
+Nathaniel Phillips,eng ENG,DF,Liverpool,1997,0,0.06
+Jordan Pickford,eng ENG,GK,Everton,1994,0,0
+Ethan Pinnock,jm JAM,DF,Brentford,1993,2,0.1
+Daniel Podence,pt POR,FWMF,Wolves,1995,6,0.19
+Nick Pope,eng ENG,GK,Newcastle Utd,1992,0,0
+Pedro Porro,es ESP,DFMF,Tottenham,1999,1,0.15
+Dennis Praet,be BEL,MFFW,Leicester City,1994,1,0.15
+Isaac Price,nir NIR,MF,Everton,2003,0,0
+Christian Pulisic,us USA,FWDF,Chelsea,1998,1,0.16
+Aaron Ramsdale,eng ENG,GK,Arsenal,1998,0,0
+Jacob Ramsey,eng ENG,MFFW,Aston Villa,2001,4,0.13
+Marcus Rashford,eng ENG,FW,Manchester Utd,1997,15,0.45
+David Raya,es ESP,GK,Brentford,1995,0,0
+Tim Ream,us USA,DF,Fulham,1987,1,0.01
+Nathan Redmond,eng ENG,DF,Southampton,1994,0,0
+Harrison Reed,eng ENG,MF,Fulham,1995,3,0.06
+Bobby Reid,jm JAM,FWDF,Fulham,1993,4,0.15
+Declan Rice,eng ENG,MF,West Ham,1999,3,0.07
+Chris Richards,us USA,DF,Crystal Palace,2000,0,0.14
+Richarlison,br BRA,MFFW,Tottenham,1997,0,0.27
+Jaïro Riedewald,nl NED,DFFW,Crystal Palace,1996,0,0
+Matt Ritchie,sct SCO,FWMF,Newcastle Utd,1989,0,0
+Andrew Robertson,sct SCO,DF,Liverpool,1994,0,0.05
+Antonee Robinson,us USA,DF,Fulham,1997,0,0
+Marc Roca,es ESP,MF,Leeds United,1996,1,0.08
+Marek Rodák,sk SVK,GK,Fulham,1996,0,0
+Rodri,es ESP,MF,Manchester City,1996,2,0.15
+Rodrigo,es ESP,FWMF,Leeds United,1991,11,0.42
+Mads Roerslev,dk DEN,DF,Brentford,1999,0,0.03
+Cristian Romero,ar ARG,DF,Tottenham,1998,0,0.03
+Oriol Romeu,es ESP,MF,Southampton,1991,0,0
+Cristiano Ronaldo,pt POR,FW,Manchester Utd,1985,1,0.32
+Connor Ronan,ie IRL,MF,Wolves,1998,0,0
+Salomón Rondón,ve VEN,FW,Everton,1989,0,0.66
+Joe Rothwell,eng ENG,MF,Bournemouth,1995,0,0.02
+Georginio Rutter,fr FRA,FWMF,Leeds United,2002,0,0.11
+José Sá,pt POR,GK,Wolves,1993,0,0
+Marcel Sabitzer,at AUT,MF,Manchester Utd,1994,0,0.11
+Allan Saint-Maximin,fr FRA,FW,Newcastle Utd,1997,1,0.13
+Bukayo Saka,eng ENG,FW,Arsenal,2001,13,0.33
+Mohamed Salah,eg EGY,FW,Liverpool,1992,16,0.53
+William Saliba,fr FRA,DF,Arsenal,2001,2,0.03
+Mohammed Salisu,gh GHA,DF,Southampton,1999,0,0.07
+Albert Sambi Lokonga,be BEL,MF,Arsenal,1999,0,0
+Albert Sambi Lokonga,be BEL,MF,Crystal Palace,1999,0,0.03
+Davinson Sánchez,co COL,DF,Tottenham,1996,0,0.04
+Robert Sánchez,es ESP,GK,Brighton,1997,0,0
+Jadon Sancho,eng ENG,FWMF,Manchester Utd,2000,4,0.22
+Morgan Sanson,fr FRA,MF,Aston Villa,1994,0,0
+Pablo Sarabia,es ESP,FWMF,Wolves,1992,1,0.38
+Jeremy Sarmiento,ec ECU,MF,Brighton,2002,0,0.17
+Gianluca Scamacca,it ITA,FW,West Ham,1999,3,0.24
+Gustavo Scarpa,br BRA,MFFW,Nott'ham Forest,1994,0,0.13
+Kevin Schade,de GER,FW,Brentford,2001,0,0.38
+Fabian Schär,ch SUI,DF,Newcastle Utd,1991,1,0.13
+Jeffrey Schlupp,gh GHA,MFFW,Crystal Palace,1992,2,0.1
+Nélson Semedo,pt POR,DF,Wolves,1993,0,0.01
+Antoine Semenyo,gh GHA,FWMF,Bournemouth,2000,0,0.07
+Marcos Senesi,ar ARG,DF,Bournemouth,1997,2,0.07
+Ryan Sessegnon,eng ENG,DF,Tottenham,2000,2,0.18
+Luke Shaw,eng ENG,DF,Manchester Utd,1995,1,0.04
+Jonjo Shelvey,eng ENG,MF,Newcastle Utd,1992,0,0
+Jonjo Shelvey,eng ENG,MF,Nott'ham Forest,1992,0,0.03
+Bernardo Silva,pt POR,MFFW,Manchester City,1994,4,0.1
+Thiago Silva,br BRA,DF,Chelsea,1984,0,0.06
+Ellis Simms,eng ENG,FW,Everton,2001,1,0.36
+Luis Sinisterra,co COL,FW,Leeds United,1999,5,0.39
+Oliver Skipp,eng ENG,MF,Tottenham,2000,1,0.02
+Adam Smith,eng ENG,DF,Bournemouth,1991,0,0.02
+Emile Smith Rowe,eng ENG,MFFW,Arsenal,2000,0,0.17
+Cédric Soares,pt POR,DF,Arsenal,1991,0,0
+Cédric Soares,pt POR,DF,Fulham,1991,0,0.02
+Dominic Solanke,eng ENG,FWMF,Bournemouth,1997,5,0.32
+Manor Solomon,il ISR,FW,Fulham,1999,4,0.19
+Tomáš Souček,cz CZE,MF,West Ham,1995,1,0.12
+Boubakary Soumaré,fr FRA,MF,Leicester City,1999,0,0
+Harry Souttar,au AUS,DF,Leicester City,1998,0,0.14
+Çağlar Söyüncü,tr TUR,DF,Leicester City,1996,0,0.08
+Djed Spence,eng ENG,FWDF,Tottenham,2000,0,0.83
+Jack Stacey,eng ENG,DF,Bournemouth,1996,0,0.03
+Junior Stanislas,eng ENG,MF,Bournemouth,1989,0,0.05
+Jay Stansfield,eng ENG,FW,Fulham,2002,0,0.26
+Jason Steele,eng ENG,GK,Brighton,1990,0,0
+Jack Stephens,eng ENG,DF,Southampton,1994,0,0
+Jack Stephens,eng ENG,DF,Bournemouth,1994,0,0.03
+Raheem Sterling,eng ENG,FWMF,Chelsea,1994,4,0.27
+John Stones,eng ENG,DFMF,Manchester City,1994,2,0.05
+Pascal Struijk,nl NED,DF,Leeds United,1999,2,0.06
+Kamaldeen Sulemana,gh GHA,FWMF,Southampton,2002,0,0.12
+Crysencio Summerville,nl NED,FW,Leeds United,2001,4,0.18
+Sam Surridge,eng ENG,FW,Nott'ham Forest,1998,1,0.52
+Japhet Tanganga,eng ENG,DF,Tottenham,1999,0,0
+Matt Targett,eng ENG,DF,Newcastle Utd,1995,0,0
+James Tarkowski,eng ENG,DF,Everton,1992,1,0.08
+Marcus Tavernier,eng ENG,MFFW,Bournemouth,1999,4,0.15
+Tetê,br BRA,FW,Leicester City,2000,1,0.23
+Kenny Tete,nl NED,DF,Fulham,1995,0,0.02
+Luke Thomas,eng ENG,DF,Leicester City,2001,0,0.01
+Youri Tielemans,be BEL,MF,Leicester City,1997,3,0.11
+Kieran Tierney,sct SCO,DF,Arsenal,1997,0,0.04
+Harry Toffolo,eng ENG,DF,Nott'ham Forest,1995,0,0.03
+Takehiro Tomiyasu,jp JPN,DF,Arsenal,1998,0,0.03
+James Tomkins,eng ENG,DF,Crystal Palace,1989,1,0.27
+Ivan Toney,eng ENG,FW,Brentford,1996,19,0.61
+Adama Traoré,es ESP,FWMF,Wolves,1996,2,0.09
+Bertrand Traoré,bf BFA,FW,Aston Villa,1995,2,0.35
+Boubacar Traoré,ml MLI,MF,Wolves,2001,0,0.02
+Mark Travers,ie IRL,GK,Bournemouth,1999,0,0
+Kieran Trippier,eng ENG,DF,Newcastle Utd,1990,1,0.02
+Leandro Trossard,be BEL,FW,Arsenal,1994,1,0.2
+Leandro Trossard,be BEL,FWMF,Brighton,1994,7,0.3
+Kostas Tsimikas,gr GRE,DF,Liverpool,1996,0,0.09
+Deniz Undav,de GER,FWMF,Brighton,1996,0,0.73
+Yan Valery,tn TUN,DF,Southampton,1999,0,0
+Virgil van Dijk,nl NED,DF,Liverpool,1991,3,0.09
+Raphaël Varane,fr FRA,DF,Manchester Utd,1993,0,0.04
+Jamie Vardy,eng ENG,FW,Leicester City,1987,2,0.19
+Joël Veltman,nl NED,DF,Brighton,1992,1,0.08
+Fabio Vieira,pt POR,MF,Arsenal,2000,1,0.16
+Matías Viña,uy URU,DFMF,Bournemouth,1997,1,0.36
+Rúben Vinagre,pt POR,DFMF,Everton,1999,0,0
+Carlos Vinícius,br BRA,FW,Fulham,1995,2,0.19
+Theo Walcott,eng ENG,FWMF,Southampton,1989,2,0.22
+Kyle Walker,eng ENG,DF,Manchester City,1990,0,0.02
+Kyle Walker-Peters,eng ENG,DF,Southampton,1997,1,0.04
+Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,1997,0,0.09
+Danny Ward,wls WAL,GK,Leicester City,1993,0,0
+Joel Ward,eng ENG,DF,Crystal Palace,1989,0,0.01
+James Ward-Prowse,eng ENG,MF,Southampton,1994,7,0.15
+Ollie Watkins,eng ENG,FW,Aston Villa,1995,14,0.46
+Adam Webster,eng ENG,DF,Brighton,1995,0,0.08
+Wout Weghorst,nl NED,FWMF,Manchester Utd,1992,0,0.19
+Danny Welbeck,eng ENG,FW,Brighton,1990,4,0.48
+Ben White,eng ENG,DF,Arsenal,1997,2,0.05
+Harvey White,eng ENG,MF,Tottenham,2001,0,0
+Joseph Whitworth,eng ENG,GK,Crystal Palace,2004,0,0
+Neco Williams,wls WAL,DF,Nott'ham Forest,2001,1,0.06
+Willian,br BRA,FW,Fulham,1988,3,0.15
+Joe Willock,eng ENG,MF,Newcastle Utd,1999,3,0.26
+Callum Wilson,eng ENG,FW,Newcastle Utd,1992,11,0.68
+Harry Wilson,wls WAL,FW,Fulham,1997,2,0.24
+Yoane Wissa,cd COD,FW,Brentford,1996,5,0.27
+Maximilian Wöber,at AUT,DF,Leeds United,1998,0,0.06
+Chris Wood,nz NZL,FW,Newcastle Utd,1991,2,0.37
+Chris Wood,nz NZL,FW,Nott'ham Forest,1991,1,0.23
+Joe Worrall,eng ENG,DF,Nott'ham Forest,1997,1,0.03
+Granit Xhaka,ch SUI,MF,Arsenal,1992,5,0.1
+Ryan Yates,eng ENG,MF,Nott'ham Forest,1997,0,0.13
+Ashley Young,eng ENG,DF,Aston Villa,1985,1,0.02
+Illia Zabarnyi,ua UKR,DF,Bournemouth,2002,0,0
+Wilfried Zaha,ci CIV,FWMF,Crystal Palace,1992,6,0.26
+Denis Zakaria,ch SUI,MF,Chelsea,1996,0,0.04
+Jordan Zemura,zw ZIM,DF,Bournemouth,1999,0,0.02
+Oleksandr Zinchenko,ua UKR,DF,Arsenal,1996,1,0.06
+Hakim Ziyech,ma MAR,FWMF,Chelsea,1993,0,0.08
+Kurt Zouma,fr FRA,DF,West Ham,1994,2,0.1
+Martin Ødegaard,no NOR,MF,Arsenal,1998,12,0.3
